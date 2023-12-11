@@ -12,20 +12,31 @@ I cleaned and visualized the data using Power BI's capabilities. The outcome was
 ### DESCRIPTION:-
 
 Dashboard creation : identify the kPI's.
-DAta Cleanig : identify the data in a suitable manner like do noy have null 3. values and Duplicates.
+
+Data Cleaning : identify the data in a suitable manner like do noy have null values and Duplicates.
+
 DATA ANALYSIS : provide valuable insights.
 
 
 ### KPI'S and Charts are performed :-
+
 KPI's Like Attrition_count and Average_rate etc.
+
 Attrition by education field.
+
 Attrition by Age group.
+
 Attrition by salary.
+
 Attrition by year at company .
+
 Attrition by job role
+
 
 ### LEARNING :-
 
 data analysis.
+
 Specializing in time series analysis.
+
 Creation dashboard.
